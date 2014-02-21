@@ -1,0 +1,32 @@
+{
+  "name": "builder-css-whitespace",
+  "description": "css-whitespace plugin for component-builder2.js",
+  "keywords": [
+    "builder2.js",
+    "component",
+    "css-whitespace"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Fabian Eichenberger",
+    "email": "fabian.eichenberger@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/queckezz/builder-css-whitespace"
+  },
+  "bugs": {
+    "url": "https://github.com/queckezz/builder-css-whitespace/issues"
+  },
+  "dependencies": {
+    "css-whitespace": "~1.1.0"
+  },
+  "homepage": "https://github.com/queckezz/builder-css-whitespace",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "component-builder2": "~0.1.0",
+    "component-resolver": "~0.1.0",
+    "co": "~3.0.4"
+  }
+}
